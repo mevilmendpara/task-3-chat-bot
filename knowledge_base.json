@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "my name is chat Bot"
+    },
+    {
+      "question": "what the color of sky",
+      "answer": "blue"
+    },
+    {
+      "question": "thanks",
+      "answer": "welcome"
+    },
+    {
+      "question": "one animal name",
+      "answer": "dog"
+    },
+    {
+      "question": "bird name",
+      "answer": "sparrow"
+    },
+    {
+      "question": "skip",
+      "answer": "thankyou"
+    }
+  ]
+}
